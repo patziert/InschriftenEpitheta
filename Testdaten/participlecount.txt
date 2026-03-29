@@ -1,0 +1,8 @@
+'moderatus': 0
+'amo': 22
+'probo': 26
+'doleo': 10
+'mereo': 2515
+'afficio': 8
+'nascor': 250
+'desero': 3

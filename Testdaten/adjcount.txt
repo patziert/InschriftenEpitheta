@@ -1,0 +1,472 @@
+securus !xpos EDCS-00600105
+miser !upos EDCS-00600131
+miser !pos EDCS-00600131
+carus !xpos EDCS-00600160
+carus !xpos EDCS-00600618
+carus !upos EDCS-00800010
+carus !pos EDCS-00800010
+sanctus !upos EDCS-01100019
+sanctus !pos EDCS-01100019
+carus !xpos EDCS-02600041
+carus !xpos EDCS-02700622
+carus !xpos EDCS-02700761
+carus !upos EDCS-02700866
+carus !pos EDCS-02700866
+carus !upos EDCS-02900130
+carus !pos EDCS-02900130
+felix !upos EDCS-03300719
+felix !pos EDCS-03300719
+sanctus !upos EDCS-03301013
+sanctus !pos EDCS-03301013
+carus !xpos EDCS-04201100
+carus !xpos EDCS-04201464
+suauis !xpos EDCS-04202105
+probus !upos EDCS-04202351
+probus !pos EDCS-04202351
+lepidus !xpos EDCS-04203115
+carus !xpos EDCS-04203627
+lepidus !xpos EDCS-05101028
+carus !xpos EDCS-05101120
+clemens !upos EDCS-05400265
+clemens !pos EDCS-05400265
+carus !upos EDCS-05502124
+carus !pos EDCS-05502124
+securus !xpos EDCS-05502542
+bonus !upos EDCS-05503012
+bonus !pos EDCS-05503012
+carus !xpos EDCS-05503074
+sanctus !upos EDCS-05503646
+sanctus !pos EDCS-05503646
+carus !xpos EDCS-05700170
+beatus !upos EDCS-05700639
+beatus !pos EDCS-05700639
+carus !upos EDCS-05700933
+carus !pos EDCS-05700933
+carus !xpos EDCS-05700939
+carus !upos EDCS-05701177
+carus !pos EDCS-05701177
+carus !xpos EDCS-05701529
+carus !upos EDCS-05701614
+carus !pos EDCS-05701614
+carus !xpos EDCS-05701806
+carus !xpos EDCS-05800452
+carus !xpos EDCS-05802010
+pius !upos EDCS-06000428
+pius !pos EDCS-06000428
+pius !upos EDCS-06000434
+pius !pos EDCS-06000434
+carus !upos EDCS-07000213
+carus !pos EDCS-07000213
+carus !upos EDCS-07000401
+carus !pos EDCS-07000401
+pius !xpos EDCS-07000686
+carus !xpos EDCS-07400017
+sanctus !upos EDCS-07400770
+sanctus !pos EDCS-07400770
+carus !upos EDCS-07600061
+carus !pos EDCS-07600061
+lepidus !xpos EDCS-08000898
+carus !upos EDCS-08100361
+carus !pos EDCS-08100361
+carus !upos EDCS-08100362
+carus !pos EDCS-08100362
+carus !xpos EDCS-08300188
+fidus !xpos EDCS-08300249
+fidus !xpos EDCS-08400005
+pius !xpos EDCS-08401046
+sanctus !upos EDCS-08500013
+sanctus !pos EDCS-08500013
+felix !upos EDCS-08500151
+felix !pos EDCS-08500151
+carus !xpos EDCS-08501730
+pudens !upos EDCS-08600580
+pudens !pos EDCS-08600580
+pius !xpos EDCS-08700390
+carus !upos EDCS-08900771
+carus !pos EDCS-08900771
+carus !xpos EDCS-08901073
+pius !xpos EDCS-08901082
+beatus !upos EDCS-09000129
+beatus !pos EDCS-09000129
+pius !xpos EDCS-09000494
+carus !xpos EDCS-09300735
+carus !xpos EDCS-09401291
+carus !xpos EDCS-09401327
+carus !xpos EDCS-09600025
+carus !upos EDCS-09701339
+carus !pos EDCS-09701339
+pius !xpos EDCS-10100471
+sanctus !upos EDCS-10200202
+sanctus !pos EDCS-10200202
+sanctus !xpos EDCS-10200347
+carus !xpos EDCS-10200816
+carus !xpos EDCS-10201022
+sanctus !upos EDCS-10201064
+sanctus !pos EDCS-10201064
+carus !xpos EDCS-10300306
+pius !upos EDCS-10300622
+pius !pos EDCS-10300622
+sanctus !xpos EDCS-10401113
+sanctus !upos EDCS-10500794
+sanctus !pos EDCS-10500794
+carus !xpos EDCS-10500850
+carus !xpos EDCS-10500862
+pius !xpos EDCS-10501271
+clemens !xpos EDCS-10800106
+fidus !xpos EDCS-11001148
+clemens !xpos EDCS-11001710
+dignus !xpos EDCS-11200910
+bonus !upos EDCS-11201576
+bonus !pos EDCS-11201576
+probus !upos EDCS-11400479
+probus !pos EDCS-11400479
+sanctus !upos EDCS-11400494
+sanctus !pos EDCS-11400494
+carus !xpos EDCS-11400521
+sanctus !upos EDCS-11400658
+sanctus !pos EDCS-11400658
+lepidus !upos EDCS-11500628
+lepidus !pos EDCS-11500628
+fortis !upos EDCS-11501099
+fortis !pos EDCS-11501099
+carus !upos EDCS-11501399
+carus !pos EDCS-11501399
+probus !upos EDCS-11701331
+probus !pos EDCS-11701331
+pius !xpos EDCS-11800879
+carus !xpos EDCS-12001121
+probus !upos EDCS-12100351
+probus !pos EDCS-12100351
+carus !xpos EDCS-12101748
+carus !xpos EDCS-12101778
+carus !upos EDCS-12200900
+carus !pos EDCS-12200900
+carus !xpos EDCS-12201014
+suauis !upos EDCS-12201142
+suauis !pos EDCS-12201142
+carus !xpos EDCS-12400759
+sanctus !upos EDCS-12400995
+sanctus !pos EDCS-12400995
+sanctus !upos EDCS-12401742
+sanctus !pos EDCS-12401742
+desertus !xpos EDCS-12600586
+carus !xpos EDCS-12600595
+carus !xpos EDCS-12600677
+carus !upos EDCS-12601058
+carus !pos EDCS-12601058
+sanctus !upos EDCS-12700002
+sanctus !pos EDCS-12700002
+suauis !upos EDCS-12700003
+suauis !pos EDCS-12700003
+carus !xpos EDCS-12700167
+carus !xpos EDCS-12700620
+sanctus !upos EDCS-12800544
+sanctus !pos EDCS-12800544
+carus !xpos EDCS-13000295
+carus !upos EDCS-13003344
+carus !pos EDCS-13003344
+carus !xpos EDCS-13200567
+carus !xpos EDCS-13300489
+carus !xpos EDCS-13300785
+beatus !upos EDCS-13301049
+beatus !pos EDCS-13301049
+carus !upos EDCS-13301051
+carus !pos EDCS-13301051
+suauis !xpos EDCS-13400195
+carus !upos EDCS-13801037
+carus !pos EDCS-13801037
+carus !xpos EDCS-13801272
+beatus !upos EDCS-13801679
+beatus !pos EDCS-13801679
+bonus !xpos EDCS-13801829
+carus !upos EDCS-13801838
+carus !pos EDCS-13801838
+carus !upos EDCS-13801947
+carus !pos EDCS-13801947
+carus !upos EDCS-13801963
+carus !pos EDCS-13801963
+suauis !xpos EDCS-13900514
+carus !upos EDCS-14200278
+carus !pos EDCS-14200278
+carus !xpos EDCS-14200295
+carus !xpos EDCS-14400023
+carus !xpos EDCS-14400494
+carus !xpos EDCS-14500350
+carus !upos EDCS-14500362
+carus !pos EDCS-14500362
+carus !xpos EDCS-14500977
+carus !xpos EDCS-14600059
+carus !xpos EDCS-14700285
+carus !xpos EDCS-14800241
+carus !xpos EDCS-14800642
+carus !xpos EDCS-14801068
+suauis !upos EDCS-14802196
+suauis !pos EDCS-14802196
+carus !xpos EDCS-14802270
+carus !xpos EDCS-14803111
+carus !xpos EDCS-14803119
+carus !upos EDCS-14803188
+carus !pos EDCS-14803188
+carus !upos EDCS-14803648
+carus !pos EDCS-14803648
+carus !xpos EDCS-14803755
+carus !xpos EDCS-14804234
+carus !xpos EDCS-14804236
+pudens !upos EDCS-14804568
+pudens !pos EDCS-14804568
+sanctus !upos EDCS-14804764
+sanctus !pos EDCS-14804764
+suauis !xpos EDCS-14805508
+bonus !xpos EDCS-15000157
+carus !upos EDCS-15200029
+carus !pos EDCS-15200029
+clemens !xpos EDCS-15300242
+integer !xpos EDCS-15400337
+suauis !xpos EDCS-15400411
+carus !upos EDCS-15400584
+carus !pos EDCS-15400584
+carus !xpos EDCS-15500292
+carus !upos EDCS-15500490
+carus !pos EDCS-15500490
+carus !xpos EDCS-15600167
+carus !upos EDCS-15600414
+carus !pos EDCS-15600414
+clemens !xpos EDCS-16000428
+miser !upos EDCS-16100471
+miser !pos EDCS-16100471
+sanctus !upos EDCS-16201221
+sanctus !pos EDCS-16201221
+bonus !xpos EDCS-16201653
+honestus !xpos EDCS-16400614
+carus !xpos EDCS-17200507
+sanctus !upos EDCS-17200647
+sanctus !pos EDCS-17200647
+carus !xpos EDCS-17200832
+carus !xpos EDCS-17200916
+carus !xpos EDCS-17200969
+carus !xpos EDCS-17201464
+carus !xpos EDCS-17201585
+carus !xpos EDCS-17201989
+sanctus !upos EDCS-17300289
+sanctus !pos EDCS-17300289
+pius !xpos EDCS-17300403
+carus !upos EDCS-17300446
+carus !pos EDCS-17300446
+carus !xpos EDCS-17900082
+beatus !upos EDCS-17900092
+beatus !pos EDCS-17900092
+carus !xpos EDCS-18100430
+fidus !xpos EDCS-18100899
+carus !xpos EDCS-18200506
+carus !upos EDCS-18300424
+carus !pos EDCS-18300424
+carus !xpos EDCS-18300444
+carus !upos EDCS-18300460
+carus !pos EDCS-18300460
+carus !xpos EDCS-18300485
+bonus !xpos EDCS-18300623
+carus !xpos EDCS-18500091
+sanctus !upos EDCS-18600272
+sanctus !pos EDCS-18600272
+carus !xpos EDCS-18700321
+carus !upos EDCS-18700491
+carus !pos EDCS-18700491
+carus !xpos EDCS-18700494
+carus !xpos EDCS-18800066
+carus !xpos EDCS-18800461
+carus !xpos EDCS-18900670
+carus !upos EDCS-19000632
+carus !pos EDCS-19000632
+sanctus !upos EDCS-19100010
+sanctus !pos EDCS-19100010
+carus !xpos EDCS-19101015
+carus !xpos EDCS-19101167
+carus !xpos EDCS-19101217
+carus !xpos EDCS-19101279
+carus !xpos EDCS-19300581
+carus !upos EDCS-19300690
+carus !pos EDCS-19300690
+carus !xpos EDCS-19301121
+miser !xpos EDCS-19600280
+beatus !upos EDCS-19800526
+beatus !pos EDCS-19800526
+pius !upos EDCS-20400843
+pius !pos EDCS-20400843
+carus !upos EDCS-20402482
+carus !pos EDCS-20402482
+carus !xpos EDCS-20403012
+carus !upos EDCS-20403101
+carus !pos EDCS-20403101
+carus !xpos EDCS-20403685
+carus !xpos EDCS-20500233
+sanctus !upos EDCS-20600357
+sanctus !pos EDCS-20600357
+carus !upos EDCS-20700026
+carus !pos EDCS-20700026
+carus !upos EDCS-21000533
+carus !pos EDCS-21000533
+carus !xpos EDCS-21300361
+carus !upos EDCS-21400088
+carus !pos EDCS-21400088
+carus !upos EDCS-21500160
+carus !pos EDCS-21500160
+carus !xpos EDCS-21500333
+sanctus !upos EDCS-22100683
+sanctus !pos EDCS-22100683
+dignus !xpos EDCS-22100979
+rarus !xpos EDCS-22300511
+carus !xpos EDCS-22500188
+carus !xpos EDCS-22700235
+carus !xpos EDCS-22700837
+clemens !xpos EDCS-22900363
+carus !xpos EDCS-23102133
+studiosus !upos EDCS-23102205
+studiosus !pos EDCS-23102205
+carus !xpos EDCS-23102482
+carus !xpos EDCS-23102570
+carus !xpos EDCS-23102573
+castus !xpos EDCS-23200519
+carus !xpos EDCS-23200723
+carus !xpos EDCS-23702424
+carus !xpos EDCS-23800792
+clemens !xpos EDCS-23800799
+carus !xpos EDCS-23900241
+suauis !xpos EDCS-23900690
+carus !xpos EDCS-24000075
+carus !xpos EDCS-24000322
+sollicitus !upos EDCS-24200409
+sollicitus !pos EDCS-24200409
+bonus !xpos EDCS-24300432
+suauis !xpos EDCS-24700756
+dignus !upos EDCS-25401556
+dignus !pos EDCS-25401556
+bonus !xpos EDCS-25401587
+sanctus !upos EDCS-26600569
+sanctus !pos EDCS-26600569
+fortis !xpos EDCS-26600590
+securus !xpos EDCS-27200173
+miser !upos EDCS-27700133
+miser !pos EDCS-27700133
+carus !upos EDCS-27800550
+carus !pos EDCS-27800550
+dignus !upos EDCS-28000364
+dignus !pos EDCS-28000364
+dignus !upos EDCS-28000422
+dignus !pos EDCS-28000422
+carus !xpos EDCS-28100046
+bonus !upos EDCS-28600231
+bonus !pos EDCS-28600231
+carus !xpos EDCS-28600243
+fidus !xpos EDCS-28700389
+frugi !upos EDCS-29300215
+frugi !pos EDCS-29300215
+fidus !xpos EDCS-30100633
+carus !xpos EDCS-30200454
+sanctus !upos EDCS-30400328
+sanctus !pos EDCS-30400328
+carus !xpos EDCS-30400743
+carus !xpos EDCS-31700052
+carus !xpos EDCS-33000008
+carus !xpos EDCS-33300381
+sanctus !upos EDCS-33400622
+sanctus !pos EDCS-33400622
+sanctus !xpos EDCS-38000284
+frugi !upos EDCS-41700141
+frugi !pos EDCS-41700141
+bonus !upos EDCS-44300021
+bonus !pos EDCS-44300021
+pius !upos EDCS-45400025
+pius !pos EDCS-45400025
+carus !xpos EDCS-48300119
+carus !xpos EDCS-48700202
+carus !xpos EDCS-48700237
+sanctus !upos EDCS-51200153
+sanctus !pos EDCS-51200153
+carus !xpos EDCS-52800071
+sanctus !upos EDCS-52800252
+sanctus !pos EDCS-52800252
+carus !xpos EDCS-57300117
+carus !xpos EDCS-57600026
+securus !xpos EDCS-57800099
+felix !upos EDCS-58400071
+felix !pos EDCS-58400071
+carus !upos EDCS-64000155
+carus !pos EDCS-64000155
+carus !upos EDCS-64400026
+carus !pos EDCS-64400026
+sanctus !upos EDCS-64400045
+sanctus !pos EDCS-64400045
+carus !xpos EDCS-64600035
+carus !xpos EDCS-64600049
+carus !xpos EDCS-64900994
+carus !xpos EDCS-69100224
+carus !xpos EDCS-71400473
+carus !xpos EDCS-71400505
+carus !xpos EDCS-71400514
+carus !upos EDCS-74200259
+carus !pos EDCS-74200259
+carus !xpos EDCS-74200620
+probus !upos EDCS-76000149
+probus !pos EDCS-76000149
+carus !upos EDCS-76300055
+carus !pos EDCS-76300055
+carus !upos EDCS-76400062
+carus !pos EDCS-76400062
+fidus !xpos EDCS-76800074
+carus !upos EDCS-78200104
+carus !pos EDCS-78200104
+carus !xpos EDCS-78800086
+suauis !xpos EDCS-79800353
+probus !upos EDCS-81100044
+probus !pos EDCS-81100044
+carus !xpos EDCS-83200146
+carus !xpos EDCS-84600093
+{'incomparabilis': 428, 
+'pientissimus': 528, 
+'pius': 1949, 
+'obsequentissimus': 7, 
+'dulcis': 166, 
+'carus': 457, 
+'pudens': 7, 
+'impudens': 0, 
+'castus': 33, 
+'rarus': 65, 
+'felix': 66, 
+'clarus': 315, 
+'fortis': 61, 
+'honestus': 161, 
+'sollicitus': 5, 
+'securus': 18, 
+'anxius': 3, 
+'beatus': 6, 
+'laetus': 676, 
+'fidus': 18, 
+'placidus': 4, 
+'clemens': 10, 
+'integer': 9, 
+'prudens': 3, 
+'amabilis': 5, 
+'probus': 51, 
+'frugi': 9, 
+'pulcher': 6, 
+'lepidus': 7, 
+'bonus': 961, 
+'optimus': 411, 
+'sapiens': 1, 
+'dignus': 174, 
+'suauis': 12, 
+'suavis': 0, 
+'simplex': 13, 
+'iucundus': 12, 
+'sanctus': 291, 
+'moderatus': 0, 
+'amans': 11, 
+'probatus': 0, 
+'merens': 0, 
+'adfectus': 0, 
+'natus': 0, 
+'desertus': 1, 
+'studiosus': 8, 
+'miser': 58, 
+'mellitus': 0}
+PS C:\Users\Jan Philipp\Documents\EDCS-Scraper> 

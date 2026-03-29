@@ -1,0 +1,114 @@
+pietas -?? -nomen, evtl. streichen
+castitas -?? -Nomen, evtl. streichen
+luctus -? - Nomen, wohl korrekt
+lucti -??? - nicht Geneitiv von luctus, was is lucio? Vermtl. Fehler, streichen
+moderatus -? - warum verb? (adv?, partizip?) definition korrekt, weiter prüfen
+amantus -??? - "mit einem Schwungriemen versehen" ist wohl nicht gesucht, wohl zu verwerfen (amanter?)
+amans -??? -PPa von amo, scheint als eigenständiges Adjektiv zu existieren? Weiter prüfen und nach idealer Umsetzungsform suchen
+probitas -?? - als Nomen korrekt, enge Verwandschaft zu probus (Stowasser)?
+probatus -??? -sollte eigentlich als Adjektiv (p. adj. ?) lemmatisiert werden und nicht Form von probo, weiter prüfen
+laetitia -? - korrekt, aber Teil eines mehrteiligen Ausdrucks
+gaudens -?? -PPA, auch als Adverb?, Teil eines mehrteiligen Ausdrucks
+virtus -? Nomen, prinipiell korrekt, v zu u weglassen?
+fructus -?? - Nomen, an sich korrekt aber que vom Lemmatizer entfernt, Teil eines mehrteiligen Ausdruckes
+que -??? - von fructusque isoliert, hat für sich genommen in den Stichwörtern nichts zu suchen, Teil eines mehrteiligen Ausdrucks
+recte -? korrekt, Teil eines mehrteiligen Ausdrucks
+Fatum -? korrekt, Teil eines mehrteiligen Ausdrucks
+acerbum -? - korrekt, Teil eines mehrteiligen Ausdrucks
+acerbo -?? - Nomen existiert theoretisch (Unglück, Unheil), aber eher Adjektiv im Ablativ gemeint, Teil eine mehrteiligen Ausdrucks
+fato -? korrekt, Teil eines mehrteiligen Ausdrucks
+dolor -? Nomen, korrekt
+in -??? -korrekt aber hat für sich in den Zuschreibungen nichts zu suchen, Teil eines mehrteiligen Ausdrucks
+maeroribus -? -korrekt, Teil eines mehrteiligen Ausdrucks
+fletu -? - Nomen, korrekt
+Lacrima -? Nomen, korrekt
+dolens -?? - P. Adj von doleo (schmerzlich, mit Trauer), prüfen ob auch als eigenes Lemma
+flevit -? Verb, korrrekt
+honor -? Nomen, korrekt
+honoratum -?? - warum Verb? Lemma ist nicht honoro, also kein korrekte Lemmatisierung einer Partizipform, weiter prüfen 
+optima -?? warum Geschlecht neutral? sonst korrekt (anm,: superlativ spezifizieren)
+merens -? - Verb im PPA, auch als Adjektiv?
+meritus -?  warum Nomen? Prüfen
+bene -??? - als Adverb korrekt, Teil eines mehrteiligen Ausdrucks
+merenti ?? korrekt als PPA von mereo, Teil eines mehrteiligen Ausdrucks
+merentissima -?? -merentus existiert nicht, müsste eigentlich superlativ des Partizips von mereo sein
+forma -??? - als Nomen korrekt identifiziert, gesucht ist aber ein Adjektiv, solch eines gibt es jedoch nicht und die PPA-Form von formo lautet formans, evtl. damit testen
+exemplum -? - als Nomen korrekt, Adjevktivform existiert nicht
+desiderius -?? - Diese Form scheint nicht zu existieren
+desiderium -? - Nomen, korrekt
+sine -?? für sich korrekt aber kein Emotionswort, Teil eines mehrteiligen Ausdrucks
+querella -?? Nomen, korrekt, Teil eines mehrtreilgen Ausdrucks
+studio -? Nomen, vermutlich korrekt, Teil eines mehrteiligen Ausdrucks
+parili -? vermutlich korrekt, Teil eines mehrteiligen Ausdrucks
+mellitissimo -? Nomen, korrekt
+incomparabilis -??? - korrekt
+concordia -? - Nomen, korrekt
+adfectus -?? -Partizipform identifiziert, sollte auch als Adjektiv existieren
+natus -? - Partizip, korrekt
+nata -? - Partizip, korrekt
+deserta -?? PPA von desero, in Lexika auch als adjektiv gelistitet, prinzipiell korrekt
+
+Kategorie 1: Korrekte, eigenständige Nomen:
+pietas -?? -nomen, evtl. streichen
+castitas -?? -Nomen, evtl. streichen
+luctus -? - Nomen, wohl korrekt
+probitas -?? - als Nomen korrekt, enge Verwandschaft zu probus (Stowasser)?
+virtus -? Nomen, prinipiell korrekt, v zu u weglassen?
+dolor -? Nomen, korrekt
+fletu -? - Nomen, korrekt
+Lacrima -? Nomen, korrekt
+honor -? Nomen, korrekt
+exemplum -? - als Nomen korrekt, Adjevktivform existiert nicht
+desiderium -? - Nomen, korrekt
+mellitissimo -? Nomen, korrekt
+concordia -? - Nomen, korrekt
+
+Kategorie 2: Korrekte eigentständige Partizipien
+moderatus -? - warum verb? (adv?, partizip?) definition korrekt, weiter prüfen
+amans -??? -PPa von amo, scheint als eigenständiges Adjektiv zu existieren? Weiter prüfen und nach idealer Umsetzungsform suchen
+probatus -??? -sollte eigentlich als Adjektiv (p. adj. ?) lemmatisiert werden und nicht Form von probo, weiter prüfen
+dolens -?? - P. Adj von doleo (schmerzlich, mit Trauer), prüfen ob auch als eigenes Lemma
+merens -? - Verb im PPA, auch als Adjektiv?
+adfectus -?? -Partizipform identifiziert, sollte auch als Adjektiv existieren
+natus -? - Partizip, korrekt
+nata -? - Partizip, korrekt
+deserta -?? PPA von desero, in Lexika auch als adjektiv gelistitet, prinzipiell korrekt
+
+Kategorie 3: mehrteilige Ausdrücke
+laetitia -? - korrekt, aber Teil eines mehrteiligen Ausdrucks
+gaudens -?? -PPA, auch als Adverb?, Teil eines mehrteiligen Ausdrucks
+fructus -?? - Nomen, an sich korrekt aber que vom Lemmatizer entfernt, Teil eines mehrteiligen Ausdruckes
+que -??? - von fructusque isoliert, hat für sich genommen in den Stichwörtern nichts zu suchen, Teil eines mehrteiligen Ausdrucks
+recte -? korrekt, Teil eines mehrteiligen Ausdrucks
+Fatum -? korrekt, Teil eines mehrteiligen Ausdrucks
+acerbum -? - korrekt, Teil eines mehrteiligen Ausdrucks
+acerbo -?? - Nomen existiert theoretisch (Unglück, Unheil), aber eher Adjektiv im Ablativ gemeint, Teil eine mehrteiligen Ausdrucks
+fato -? korrekt, Teil eines mehrteiligen Ausdrucks
+in -??? -korrekt aber hat für sich in den Zuschreibungen nichts zu suchen, Teil eines mehrteiligen Ausdrucks
+maeroribus -? -korrekt, Teil eines mehrteiligen Ausdrucks
+bene -??? - als Adverb korrekt, Teil eines mehrteiligen Ausdrucks
+merenti ?? korrekt als PPA von mereo, Teil eines mehrteiligen Ausdrucks
+sine -?? für sich korrekt aber kein Emotionswort, Teil eines mehrteiligen Ausdrucks
+querella -?? Nomen, korrekt, Teil eines mehrtreilgen Ausdrucks
+studio -? Nomen, vermutlich korrekt, Teil eines mehrteiligen Ausdrucks
+parili -? vermutlich korrekt, Teil eines mehrteiligen Ausdrucks
+
+Kategorie 4: Was soll das sein?
+lucti -??? - nicht Geneitiv von luctus, was is lucio? Vermtl. Fehler, streichen
+amantus -??? - "mit einem Schwungriemen versehen" ist wohl nicht gesucht, wohl zu verwerfen (amanter?)
+desiderius -?? - Diese Form scheint nicht zu existieren
+
+Kategorie 5: Korrekte Verben und Ajektive
+flevit -? Verb, korrrekt
+incomparabilis -??? - korrekt
+
+Kategorie 6: Fehler oder Untersuchungsfall
+honoratum -?? - warum Verb? Lemma ist nicht honoro, also keine korrekte Lemmatisierung einer Partizipform, weiter prüfen 
+optima -?? warum Geschlecht neutral? sonst korrekt (anm,: superlativ spezifizieren) <- weil als Neut. Pl. lemmatisiert
+meritus -?  warum Nomen? Prüfen
+forma -??? - als Nomen korrekt identifiziert, gesucht ist aber ein Adjektiv, solch eines gibt es jedoch nicht und die PPA-Form von formo lautet formans, evtl. damit testen
+merentissima -?? -merentus existiert nicht, müsste eigentlich superlativ des Partizips von mereo sein
+dulcissimo - ?? dulcus existiert nicht, müsste eigentlich als dulcis lemmatisiert werden
+studiosus -? -warum nomen? scheint sonst korrekt, weiter prüfen
+misera - ?? sollte miser sein, miserus gibt es nicht
+amoena - ?? nicht zwingend falsch, aber Lemma eigentlich amoenus?

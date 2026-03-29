@@ -1,0 +1,101 @@
+ID,Text,Named Entities,,
+EDCS-05800470,Caio Iavoleno Calvino Geminio Kapitoni Cornelio Pollioni Squillae Quinto Vulkacio Scuppidio Vero consuli proconsuli provinciae Baeticae legato Augusti pro praetore provinciae Lusitaniae legato legionis III Gallicae praetori candidato divi Hadriani tribuno plebis candidato quaestori provinciae Africae tribuno militum legionis V Macedonicae Xviro stlitibus iudicandis,Caio PERSON; Calvino PERSON; Geminio PERSON; Kapitoni PERSON; Cornelio PERSON; Pollioni PERSON; Quinto PERSON; Vero PERSON; Baeticae LOC; Augusti PERSON; Hadriani PERSON; Africae LOC; Macedonicae LOC; Xviro PERSON; ,8TP; 4FN; 1FP,Alle Personen von 5 identifiziert
+EDCS-24800540,Ex praediis Marci Aureli Antonini opus doliare Numeri Iusti,Marci PERSON; Aureli PERSON; Antonini PERSON; ,3TP,Alle Personen von 1 identifiziert
+EDCS-24200419,Quintus Helvius Cai filius Papiria in fronte pedes XIIX in agro pedes XX,Quintus PERSON; Helvius PERSON; Papiria PERSON; ,3TP; 1FN,Alle Personen von 2 identifiziert
+EDCS-71700142,Cohors III,Cohors LOC; ,TN,
+EDCS-11200300,DE  CO  G  A,CO LOC; G LOC; ,TN,
+EDCS-17201701, Marcus Seius    modi L    sevir r    Marcus Seius    amian,Marcus PERSON; Seius PERSON; L PERSON; r PERSON; Marcus PERSON; Seius PERSON; ,"4TP, 1FP ,1?",Alle Personen von 2 identifiziert
+EDCS-32301155,Hibero et Sisenna consulibus Peducaei Lupuli ex figlinis Rhodinianis Caesaris nostri,Sisenna PERSON; Lupuli PERSON; Caesaris PERSON; ,"2TP, 2FN, 1 FP",1 Person von 2 nicht identifiziert
+EDCS-12900166,Lucius Licinius Cai filius Perenni us vixit annos CI hic situs est ossa ei bene quiescant,Lucius PERSON; Licinius PERSON; Perenni PERSON; CI PERSON; ,"1 FN, 1FP",Alle Personen von 2 identifiziert
+EDCS-11901293,Caius Anvius Cai filius Buanus  hic situs est,Caius PERSON; Anvius PERSON; Buanus PERSON; ,"TP, 1FN",Alle Personen von 1 identifiziert
+EDCS-30600567,Marcus Plaetorius P miles cohortis VIII voluntariorum |centuria Artani Marce lli Noni Valentis |centuria eadem Nonio Valenti bene me renti titulum posuit annorum XXX stipendiorum VII,Marcus PERSON; Plaetorius PERSON; P PERSON; Marce PERSON; Nonio PERSON; ,"5TP, 4FN",1 Person von 3 nicht identifiziert
+EDCS-02100007,Flaviae Elpidi castissimae feminae Trophimus exactor coniu gi bene me renti,Trophimus PERSON; ,"1TP, 2FN",1 Person von 2 nicht identifiziert
+EDCS-60200147,Dis Manibus Flaviae Piae,,2FN,1 Person von 1 nicht identifiziert
+EDCS-06000420,Imperatori Caesari Marco Aurellio Antonino Pio Felici Augusto Parthico maximo Britannico maximo Germanico maximo pontifici maximo tribuniciae potestatis XVIIII imperatori III consuli IIII patri patriae Lepcitani Septimiani pro continua indulgentia eius,Caesari PERSON; Marco PERSON; Aurellio PERSON; Antonino PERSON; Pio PERSON; Augusto PERSON; ,"5TP, 1FP",Alle Personen von 1 identifiziert
+EDCS-05600247,Imperatori Caesari Marco   Claudio   pontifici maximo tribunicia potestate II proconsuli ,Caesari PERSON; Marco PERSON; ,1FN,Alle Personen von 1 identifiziert
+EDCS-09600832,Marcus Coelius Daphnus Iuliae Primae coniugi suae fecit,Marcus PERSON; Coelius PERSON; ,"2TP, 3FN",1 Person von 2 nicht identifiziert
+EDCS-07800289,T,T PERSON; ,?,
+EDCS-07500117,Dis Manibus sacrum Aula Florenti na annorum L  sit tibi terra levis,Aula LOC; L PERSON; ,"2FN, 1 FP",1 Person von 1 nicht identifiziert
+EDCS-09202054,Dis Manibus Fabiae Quinti filiae Crispinae Quintia Crispa mater,Quinti PERSON; Crispinae PERSON; Crispa PERSON; ,"3TP, 2FN",Alle Personen von 3 identifiziert
+EDCS-53200444,Dis Manibus Victoria pia   vixit annos   hic sita est,,1 FN,1 Person von 1 nicht identifiziert
+EDCS-23100151,Dis Manibus sacrum Oppio Asarcio Oppi filio vixit annos XL Memmia Veneria coniugi me renti una cum Publio Trebio Ho norato parente fecit,Oppio PERSON; Oppi PERSON; Memmia LOC; Veneria LOC; Publio PERSON; Trebio PERSON; ,"3TP, 5 FN",1 Person von 4 nicht identifiziert
+EDCS-09200556,  Luci filius  Arnensi Ru,Luci PERSON; ,"1TP, 1FN",1 Person von 2 nicht identifiziert
+EDCS-12201187,Dis Manibus Iuliae Hermione filiae piissimae Iuliae Epicharisi bene merenti fecit Iulius Apseudes et Iulia Helene in fronte pedes VII in agro pedes VII,Epicharisi PERSON; Iulius PERSON; ,"2 TP, 6 FN",2 Personen von 4 nicht identifiziert
+EDCS-20402562,Dis Manibus Xanthippes sive Iaiae Caius Cassius Lucilianus alumnae dulcissimae seu mortis miseret seu te vitae perlige nomen Xanthippe Iaia eaedem ludicro quot exprimens dolore fugit anima corpore hic conquiescit cunis terrae mollibus quam trino annorum filo proterentia novem post mensium  lt f=E gt ata conficiunt malo lues ignita torret ultra quot dies venusta amoena intellegens et garrula quam siqua pietas insitast caelestibus viventi ingenio soli et luci reddite altoris memorem quem parentes dixerant cum primum natust Lucilianum Cassium,Caius PERSON; Cassius PERSON; Lucilianus PERSON; Iaia LOC; Lucilianum PERSON; Cassium PERSON; ,"4TP, 5FN",2 Personen von 4 nicht identifiziert
+EDCS-73100985,bene merenti ,,TN,
+EDCS-04200631,Dis Manibus Titi Domiti Gracilis natione Ditionis vixit annos L militavit annos XIII IIIIquadriere Pado heredes Lucius Plaetorius Bassus et Lucius Murranius Super bene merenti posuerunt,Titi PERSON; Domiti PERSON; L PERSON; Pado LOC; Lucius PERSON; Plaetorius PERSON; Bassus PERSON; Lucius PERSON; Murranius PERSON; ,"7 TP, 1 FP, 2 FN",Alle Personen von 3 identifiziert
+EDCS-24300838,Caium Iulium Polyb iu m IIvirum Cuculla rogat,Caium PERSON; Iulium PERSON; Cuculla PERSON; ,1 FN,Alle Personen von 2 identifiziert
+EDCS-16100790, procuratori Augusti a rationibus praefecto vigilum patrono coloniae decreto decurionum publice,Augusti PERSON; ,1 FP,
+EDCS-09801899,Quintus Abihi us  MEDV  R vixit annos XI,Quintus PERSON; Abihi PERSON; R PERSON; ,2TP,Alle Personen von 1 identifiziert
+EDCS-82400145,IA +,,TN,
+EDCS-52603172,Dis Manibus Caius Maecen lt a=E gt s Hermes posuit Caius Maecenas  picus libertus patrono bene merenti,Maecen PERSON; Caius PERSON; ,"3 TP, 3 FN",2 Personen von 3 identifiziert
+EDCS-66300808,Legio IIII Macedonica,Legio LOC; Macedonica LOC; ,TN,
+EDCS-79700093,N      AV CI   assus faciendum curavit,CI PERSON; ,?,
+EDCS-34100039,Pro salute Imperatoris Caesaris Marci Aurelii Antonini Pii Felicis Augusti   legio I Italica Antoniniana per     praefectum legionis supra scriptae templum Solis Invicti   fabricavit praebente     lio Gratiliano V  legato Augusti pro praetore curatione Secundini  ,Caesaris Marci PERSON; Aurelii PERSON; Antonini PERSON; Italica LOC; Antoniniana LOC; Augusti PERSON; Secundini PERSON; ,"3TP, 1 FP, 1 FN",1 Person von 3 nicht identifiziert
+EDCS-54100646,Dis Manibus Dionysio filio annorum VII mensium VI dierum XII bene merenti parentes fece runt,,1 FN,1 Person von 1 nicht identifiziert
+EDCS-73100767,  Mani libert ,Mani PERSON; ,1 FP,
+EDCS-34000034,Servi Fulvi Menophili in fronte pedes XII in agro pedes XVI,Servi PERSON; Fulvi Menophili PERSON; ,1 TP,Alle Personen von 1 identifiziert
+EDCS-20402941,Dis Manibus Publi Corneli Ma ronis fecit Publius Cornelius Torquatus Luci filius,Publi PERSON; Corneli PERSON; Publius PERSON; Cornelius PERSON; Torquatus PERSON; Luci PERSON; ,"6 TP, 1 FN",Alle Personen von 3 identifiziert
+EDCS-23701361, Lucius Sittius  Felix   X  hic situs est,Lucius PERSON; Sittius PERSON; Felix PERSON; ,3 TP,Alle Personen von 1 identifiziert
+EDCS-23700694, annis LIII ossa tibi bene quiescant,,TN,
+EDCS-53600016, us Marci libertus  o   testamento ,Marci PERSON; ,1 TP,Alle Personen von 1 identifiziert
+EDCS-12201094,Dis Manibus Iuliae Nerei filiae Claudiae Mer curiali Tiberius Claudius Primigenius coniugi bene de se me ritae cum qua vixit annos XXII menses VII dies V,Claudiae PERSON; Mer PERSON; Tiberius PERSON; Claudius PERSON; ,"4TP, 3 FN",1 Person von 3 nichtidentifiziert
+EDCS-24300617,Ampliatum aedilem Trebi surge facit,Ampliatum PERSON; Trebi PERSON; ,2 TP,Alle Personen von 2 identifiziert
+EDCS-12600332,Caius Licinius Cai libertus Mario  Licinia Cai liberta Nysa,Caius PERSON; Licinius PERSON; Mario PERSON; Licinia Cai PERSON; ,"4 TP, 1 FN",1 Person von 3 nicht identifiziert
+EDCS-14800614,Dis Manibus Arriae Hamil lae matri piissimae posuit filia,Arriae LOC; ,2 FN,1 Person von 1 nicht identifiziert
+EDCS-17201548,Dis Manibus Antiochidi Helius uxori,Antiochidi LOC; Helius PERSON; ,"1 Tp, 1 FN",Alle Personen von 1 identifiziert
+EDCS-15800452,Caius Iulius   proreta classis Syriacae liburna   domo M  militavit annos ,Caius PERSON; M PERSON; ,"1 TP, 1FN, 1FP",Alle Personen von 1 identifiziert
+EDCS-26900651,Dis Manibus  lius V   R vixit annis ,,TN,
+EDCS-24700744,Liberalis,,TN,
+EDCS-28100349,Imperatori Caesari Marco Iulio Philippo Invicto Pio Felici ,Caesari PERSON; Marco PERSON; ,"1 TP, 2FN",Alle Personen von 1 identifiziert
+EDCS-08501646,Dis Manibus Niciae citharoe do Iulia  ia ,,1 FN,1 Person von 1 nicht identifiziert
+EDCS-17201687,Dis Manibus Lucius Iunius Luci filius IIIIIIIIvir Augustalis Livia Manilia bono viro posuit  Dis Manibus Lucius Iunius Annius Quinti Publi filius sevir Augustalis Roma Claudia Manlia coniugi carissimo posuit,Lucius PERSON; Luci PERSON; Manilia PERSON; Lucius PERSON; Annius PERSON; Quinti PERSON; Publi PERSON; Roma LOC; Claudia Manlia PERSON; ,"8 TP, 3 FN",Alle Personen von 4 identifiziert
+EDCS-00800015, XVviro sacris faciundis legato pro praetore Imperatoris Nervae Traiani Caesaris Augusti Germanici Dacici provinciae Aquitanicae defensori immunitatis perticae Carthaginiensium Quintus Marius Quinti filius Arnensi Faustinus legatus ob eam causam ex decreto decurionum sua ,Traiani Caesaris PERSON; Carthaginiensium LOC; Quintus PERSON; Marius PERSON; Quinti PERSON; Faustinus PERSON; ,"5 TP, 1 FN",Alle Personen von 2 identifiziert
+EDCS-18300976,Maecenatia  ula,,?,
+EDCS-53100137,Dis Manibus Lucius S  PIA  Flam  et Baebiae   bene merenti quae    et sibi suisque libertis libertabusque poste risque eorum,Lucius PERSON; Flam LOC; Baebiae LOC; ,"1TP, 2 ?",Alle Personen von 1 identifiziert
+EDCS-07801367,Marti Augusto Aufidi us Aufi dianus donum dedit,Augusto PERSON; Aufidi PERSON; Aufi PERSON; ,2 TP,Alle Personen von 2 identifiziert
+EDCS-76500004, VI  VRS  OB ,,TN,
+EDCS-28000091,Caio Tespio Mas celioni Visilla Felicia marito incomparabili posuit,Caio PERSON; Visilla LOC; ,"1 TP, 4 FN",1 Person von 2 nicht identifiziert
+EDCS-23702486,Caius Norbanus Cai libertus Stephanus Norbana Laudice in fronte pedes XII in agro pedes XII,Caius PERSON; Norbanus PERSON; Stephanus PERSON; Laudice PERSON; ,"4 TP, 1 FN",Alle Personen von 2 identifiziert
+EDCS-13802202,  Cai libert Saturi ,Cai LOC; ,1 FN,Keine Identifikation erwartbar
+EDCS-30400634,Publius Decimius Murra vixit annis X  hic situs est,Publius PERSON; Decimius PERSON; ,"2 TP, 1 FN",Alle Personen von 1 identifiziert
+EDCS-08900517,Dis Manibus  Valerio Valeriano veterano legionis XIIII Geminae Valerius Va lerianus filius patri pientissimo,Valeriano PERSON; Valerius PERSON; ,"2 TP, 3 FN",Alle Personen von 2 identifiziert
+EDCS-66300969,Legio IIII Macedonica,Legio LOC; Macedonica LOC; ,TN,
+EDCS-32700070,Petrucleia Titi filia,Titi PERSON; ,"1 TP, 1 FN",Alle Personen von 1 identifiziert
+EDCS-19300075, io Timostrato hoc titulum ornavit frater Rufus sociale qui fueras carus viv lt u=O gt s et ille tibi sit tibi terra quies parcito et ipse tuos,Timostrato PERSON; Rufus PERSON; ,2 TP,Alle Personen von 2 identifiziert
+EDCS-23900674,|Mulieris liberta Aprodisia Aelia Publi liberta Helena Caius Apronius |mulieris libertus Primus heres,Aprodisia LOC; Publi PERSON; Caius PERSON; Apronius PERSON; ,"4 TP, 2 FN",Alle Personen von 2 identifiziert
+EDCS-13500111, Publius  V,Publius PERSON; ,1 TP,Alle Personen von 1 identifiziert
+EDCS-27800494,Dis Manibus Quinto Eruci o Victo ri medi co cohortis ,Quinto PERSON; Eruci PERSON; Victo PERSON; ,"2 TP, 1 FP",Alle Personen von 1 identifiziert
+EDCS-19300875,Rogo n lt e=I gt  noceas,Rogo PERSON; ,?,
+EDCS-13003540,Quintus Petreius Quetus vixit annos LV hic situs est,Quintus PERSON; ,"1 TP, 2 FN",Alle Personen von 1 identifiziert
+EDCS-32300998,|Centuria Nasonis  Agrippae  IVVasa pondo IVlibrae |quincunx,Agrippae PERSON; ,1 TP,
+EDCS-71300209,Dis Manibus Cassiae Dracon tidi annorum III Cassia Agathoclia mater,Cassiae LOC; Cassia LOC; Agathoclia PERSON; ,"1 TP, 2 FN",1 Person von 2 nicht identifiziert
+EDCS-74900279,Culcia Iucunda hic adquies lt c=QU gt it,Culcia LOC; ,1 FN,1 Person von 1 nicht identifiziert
+EDCS-18900204,Tiberi Iuli Iusti tribuni cohortis VIIII praetoriae,,2 FN,1 Person von 1 nicht identifiziert
+EDCS-24100265,Dis Manibus Numisia Honora ta vixit annos XXII,,2 FN,1 Person von 1 nicht identifiziert
+EDCS-12001808,Dis Manibus Cai Domati Nedimi filii sibi et posterisque suis in fronte pedes XXX in agro pedes XXX,Cai LOC; Nedimi PERSON; ,"1 TP, 2 FN",Alle Personen von 1 identifiziert
+EDCS-05100007,Iamuno Rufi filio et Tertullae Sta cassi Basi filiae uxori Quartioni Sexto militibus legionis XXI Rapacis filiis defunctis Suavi IVIL FILI vivi fecerunt,Rufi PERSON; Tertullae PERSON; Basi PERSON; Sexto PERSON; Suavi PERSON; ,"5 TP, 4 FN",1 Person von 5 nicht identifiziert
+EDCS-79200088,Sodales Tusculanae,Tusculanae LOC; ,TN,
+EDCS-28600262,Divo Hadriano Mursenses conditori suo,Mursenses PERSON; ,"1TP, 1 FN",Alle Personen von 1 identifiziert
+EDCS-09900373, Super  optio ex   ex voto  ,,TN,
+EDCS-39000529,ussa     Livinei fi  AV  C   L  R  T  IR,Livinei PERSON; AV LOC; C    PERSON; L PERSON; R PERSON; T PERSON; ,"1 TP, 5 ?",Alle Personen von 1 identifiziert
+EDCS-00600530,Cai Fabi Cai et |mulieris liberti Felicis,Cai Fabi PERSON; Cai LOC; Felicis PERSON; ,3 TP,Alle Personen von 2 identifiziert
+EDCS-34801175, vivus  fecit ,,TN,
+EDCS-19700689,Imperator Caesar   Lucius Septimius Severus Pius Pertinax Augustus Arabicus Adiabenicus Parthicus maximus pontifex maximus tribunicia potestate VI imperator    RO  SR  ,Caesar PERSON; Lucius PERSON; Septimius PERSON; Severus PERSON; Augustus PERSON; ,4 TP,Alle Personen von 1 identifiziert
+EDCS-19100499,  Phileros   Chloenis Coa,,2 FN,2 Personen von 2 nicht identifiziert
+EDCS-09900174,Iovi Optimo Maximo Silvano pro salute et INAI DEVM SEDATVI,Iovi PERSON; Maximo PERSON; Silvano PERSON; ,"3 TP, 1 FN",Alle Personen von 1 identifiziert
+EDCS-07600013, hoc monumentum ex libertis libertabusque posterisque nostrorum quisquis vendiderit vel donationis causa concedere voluerit inferet aerario populi Romani HS   sive quis monumentum violaverit aut titulum deasciaverit et is inferet aerario populi Romani HS   qui detulerit quartas ex ea summa accipere debebit hoc monumentum ad heredem exterum non pertinet  VIC ME ,,TN,
+EDCS-29900150,Dis Manibus Surio Verecund i filius sibi et A ciae coniugi C  filiae et  TI,C PERSON; ,"2 FN, 1 ?",1 Person von 2 nicht identifiziert
+EDCS-30100597,Legio X,Legio LOC; ,TN,
+EDCS-25700235,Dis Manibus sacrum Tossunia Sa turnina Tos sunis filia pia vixit annos LXI hic sita est,Tossunia LOC; ,3 FN,1 Person von 1 nicht identifiziert
+EDCS-18000327,Macedoni Euphrosyni arcarii magister  familiae limatae Salvilla mamma,Salvilla LOC; ,1 FN,1 Person von 1 nicht identifiziert
+EDCS-28600035, miles legionis II Adiutricis faciendum curavit,Adiutricis PERSON; ,1 FP,
+EDCS-12001510,Critonia Cai liberta Nice locum dat Petilliae Luci libertae et Alexandro vivis ob fidelitate et offic lt i=E gt is monume ntum    vixit ,Critonia LOC; Cai LOC; Nice PERSON; Luci PERSON; Alexandro PERSON; ,"2 TP,, 3 FN, 1 FP",1 Person von 1 nicht identifiziert
+EDCS-18900216,Dis Manibus Tito Sattio Sat  Mediolani militi cohortis VIIII praetoriae |centuria Sabini militavit annos VII vixit annos   heres bene merenti fecit,Tito PERSON; Mediolani LOC; ,"1 TP, 2 FN",Alle Personen von 1 identifiziert
+EDCS-10100386,L   ital M,M PERSON; ,?,
+EDCS-24500324,Caius Prastina Pacatus Messalinus legatus Augusti pro praetore legionis III Augustae consul de signatus patronus coloniae dedicavit decreto decurionum pecunia publica,Caius PERSON; Messalinus PERSON; Augusti PERSON; Augustae LOC; ,"1 TP, 3 FN",Alle Personen von 1 identifiziert
+EDCS-15600276,Dis Manibus Cai Canulei Cai liberti Ascani,Cai LOC; Ascani PERSON; ,"3 FN, 1 TP",1 Person von 2 nicht identifiziert
+EDCS-22100298,Aulus Papirius Auli filius Fenestella,Aulus PERSON; Papirius PERSON; Auli PERSON; ,"3 TP, 1 FN",1 Person von 2 nicht identifiziert
+EDCS-12201604,Iusto fratri suo dulcissimo Caecilia Helpis,Iusto PERSON; Caecilia LOC; ,"3 FN, 8 TP",Alle Personen von 3 identifiziert
+EDCS-24700311,Imperatori Caesari divi Marci Antonini Pii Germanici Sarmatici filio divi Commodi fratri di vi Antonini Pii nepoti di vi Hadriani pronepoti divi Traiani Parthici abnepoti divi Nervae adnepoti Lucio Septimio Severo Pio Perti naci Arabico A lt di=Z gt abenico Augusto patri patriae pontifici maximo tribunicia potestate V imperatori VIIII consuli II decreto decurionum pecunia publica,Caesari PERSON; Marci PERSON; Antonini PERSON; Commodi PERSON; Antonini PERSON; Hadriani PERSON; Traiani PERSON; Lucio PERSON; Septimio PERSON; Severo PERSON; Arabico LOC; A LOC; Augusto PERSON; ,"2 TP, 1 FN",Alle Personen von 1 identifiziert
+EDCS-08600864,Dis Manibus sacrum Publius Caci us Maxi mus vixit annis LXV,Publius PERSON; Caci LOC; Maxi PERSON; ,,

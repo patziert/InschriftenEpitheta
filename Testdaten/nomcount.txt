@@ -1,0 +1,16 @@
+exemplum !xpos EDCS-05800956
+exemplum !xpos EDCS-09301557
+exemplum !xpos EDCS-14200868
+exemplum !xpos EDCS-15200061
+'pietas': 201, 
+'castitas': 11, 
+'luctus': 18, 
+'probitas': 6, 
+'uirtus': 29, 
+'dolor': 49, 
+'fletus': 11, 
+'lacrima': 28, 
+'honor': 835, 
+'exemplum': 66, 
+'desiderium': 7, 
+'concordia': 14
